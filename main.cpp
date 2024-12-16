@@ -59,4 +59,3 @@ int main() {
         else               buzzer=1;
     }
 }
-
